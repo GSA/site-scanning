@@ -11,7 +11,7 @@ This repository serves as a directory to all of the relevant components of the p
 * [API Documentation](https://open.gsa.gov/api/site-scanning-api/)
 * [Program Documentation](https://github.com/18F/site-scanning-documentation)
 * [Repository for the website index](https://github.com/GSA/federal-website-index)
-* [Codebase for the scanning engine](https://github.com/18F/site-scanning-two)
+* [Codebase for the scanning engine](https://github.com/18F/site-scanning-engine)
 * [Codebase for the query builder](https://github.com/18F/site-scanning-query-builder)
 
 
