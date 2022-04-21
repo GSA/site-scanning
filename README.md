@@ -13,7 +13,7 @@ This project is in ALPHA and the API is under active development, so may change 
 * [Program Documentation](https://github.com/18F/site-scanning-documentation)
 * [Repository for the website index](https://github.com/GSA/federal-website-index)
 * [Codebase for the scanning engine](https://github.com/18F/site-scanning-engine)
-* [Codebase for the query builder](https://github.com/18F/site-scanning-query-builder)
+* [Codebase for the query builder](https://github.com/18F/site-scanning-query-builder) (inactive)
 
 
 
