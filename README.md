@@ -19,5 +19,5 @@ This project is in ALPHA and the API is under active development, so may change 
 * [System Schedule - When ingests, reports, scans, etc. take place each week](https://github.com/GSA/site-scanning-documentation/blob/main/pages/schedule.md)
 * [Debugging Guide](https://github.com/GSA/site-scanning-documentation/blob/main/pages/debugging-guide.md)
 * [Repository for storing one-off snapshots of scan data](https://github.com/GSA/site-scanning-snapshots)
-
+* [Sample dataset that represents different edge cases](https://github.com/GSA/site-scanning-documentation/blob/main/data/Representative_Sample_Dataset.csv)
 
