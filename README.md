@@ -18,7 +18,7 @@ This project is in ALPHA and the API is under active development, so may change 
 * Analysis Reports: [Snapshot - Primary](https://github.com/GSA/site-scanning-analysis/blob/main/reports/snapshot-primary.csv); [Snapshot - All](https://github.com/GSA/site-scanning-analysis/blob/main/reports/snapshot-all.csv); [Federal Website Index](https://github.com/GSA/site-scanning-analysis/blob/main/reports/target-URL-list.csv); [Federal Website Index Creation Process](https://github.com/GSA/federal-website-index/blob/main/data/site-scanning-target-url-list-analysis.csv)
 * [System Schedule - When ingests, reports, scans, etc. take place each week](https://github.com/GSA/site-scanning-documentation/blob/main/pages/schedule.md)
 * [Debugging Guide](https://github.com/GSA/site-scanning-documentation/blob/main/pages/debugging-guide.md); [Quality Assurance Walkthrough](https://github.com/GSA/site-scanning-documentation/blob/main/about/project-management/quality-assurance-walkthrough.md)
-* [Repository for storing one-off snapshots of scan data](https://github.com/GSA/site-scanning-snapshots)
+* [Repository for storing one-off snapshots of scan data](https://github.com/GSA/site-scanning-snapshots) - [Archive of historical snapshots](https://github.com/GSA/site-scanning-snapshots/tree/main/snapshots)
 * [Sample dataset that represents different edge cases](https://github.com/GSA/site-scanning-documentation/blob/main/data/Representative_Sample_Dataset.csv)
 * [Snapshots that attempt to remove duplicative websites](https://github.com/GSA/site-scanning-analysis/tree/main/unique_website_list/results)
 * [Publicly accessible snapshot of the data in Google Sheets](https://docs.google.com/spreadsheets/d/1eZS7-9i_s4z1ZpsDxkLlGfdyjVz4M7_eFq28PXK8AK0/edit#gid=1451048475)
