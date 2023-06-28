@@ -4,7 +4,7 @@ The [Site Scanning program](https://digital.gov/site-scanning/) automates a wide
 
 This repository serves as a directory to all of the relevant components of the program.  This repository's issue tracker is also the project's main issue tracker.  
 
-This project is in ALPHA and the API is under active development, so may change further in the future. To ask a question or leave feedback for the program, please [file an issue here](https://github.com/GSA/site-scanning/issues) or email us at site-scanning@gsa.gov.    
+To ask a question or leave feedback for the program, please [file an issue here](https://github.com/GSA/site-scanning/issues) or email us at site-scanning@gsa.gov.    
 
 ### Important Links
 
