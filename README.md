@@ -1,6 +1,6 @@
 # Site Scanning
 
-The [Site Scanning program](https://digital.gov/site-scanning/) automates a wide range of scans of public federal websites and generates data about website health and best practices. The program is a shared service provided by the [Technology Transformation Services](http://www.gsa.gov/tts) at the U.S. General Services Administration (GSA).
+The [Site Scanning program](https://digital.gov/site-scanning/) automates a wide range of scans of public federal websites and generates data about website health and best practices. The program is a shared service provided by the [Technology Transformation Services](https://tts.gsa.gov/) at the U.S. General Services Administration (GSA).
 
 This repository serves as a directory to all of the relevant components of the program.  This repository's issue tracker is also the project's main issue tracker.  
 
