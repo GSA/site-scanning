@@ -1,0 +1,18 @@
+Found spelling errors in site-scanning-documentation:
+
+1. README.md line 58: 'Docoumentation' -> 'Documentation'
+2. about/10-minute-walkthrough.md line 3: 'range useful' -> 'range of useful'
+3. about/10-minute-walkthrough.md line 11: 'combining then filtering' -> 'combining them and filtering'
+4. about/10-minute-walkthrough.md line 29: 'decide which prioritize which' -> 'decide which to prioritize'
+5. about/stakeholder-experience.md line 30: 'quickest path' -> 'the quickest path'
+6. about/stakeholder-experience.md line 39: 'that attempt' -> 'that attempts'
+7. pages/candidate-scans.md line 3: 'alreadby' -> 'already'
+8. pages/candidate-scans.md line 27: 'eage' -> 'each'
+9. pages/candidate-scans.md line 29: 'offical' -> 'official'
+10. pages/candidate-scans.md line 77: 'desciptions' -> 'descriptions'
+11. pages/candidate-scans.md line 161: 'ever link' -> 'every link'
+12. pages/candidate-scans.md line 191: 'metholodgy' -> 'methodology'
+13. about/project-management/project-history.md line 9: 'builts' -> 'built'
+14. about/project-management/engineering-handbook.md line 3: 'linke' -> 'link'
+15. about/project-management/engineering-handbook.md line 35: 'bootstraped' -> 'bootstrapped'
+16. pages/schedule.md line 31: 'publically' -> 'publicly'
