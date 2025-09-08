@@ -6,6 +6,12 @@ This repository serves as a directory to all of the relevant components of the p
 
 To ask a question or leave feedback for the program, please [file an issue here](https://github.com/GSA/site-scanning/issues) or email us at site-scanning@gsa.gov.
 
+### Repository Contents
+
+* `agency_bureau_codes.csv` - Federal agency and bureau codes from OMB A-11
+* `README_agency_bureau_codes.md` - Documentation for the agency/bureau codes data
+* `extract_agency_codes.py` - Python script for extracting codes from OMB A-11 PDF
+
 ### Important Links
 
 * [Program Website](https://digital.gov/site-scanning)
