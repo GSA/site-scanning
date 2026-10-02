@@ -1,4 +1,5 @@
 # Site Scanning
+[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/GSA/site-scanning)
 
 The [Site Scanning program](https://digital.gov/site-scanning/) automates a wide range of scans of public federal websites and generates data about website health and best practices. The program is a shared service provided by the [Technology Transformation Services](https://tts.gsa.gov/) at the U.S. General Services Administration (GSA).
 
